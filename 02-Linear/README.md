@@ -1,8 +1,8 @@
 # Линейные алгоритмы
 
 ## Colab
-* [Linear](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/03-Linear/Linear.ipynb)
-* [Home](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/03-Linear/HomeLinear.ipynb)
+* [Linear](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/02-Linear/Linear.ipynb)
+* [Home](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/02-Linear/HomeLinear.ipynb)
 
 ## Запись
 
