@@ -2,7 +2,7 @@
 
 ## Colab
 * [IntroML](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/01-IntroML/IntroML.ipynb)
-* [Home1](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/01-IntroML/Home1.ipynb)
+* [Home](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/01-IntroML/HomeIntroML.ipynb)
 
 
 ## План
@@ -17,4 +17,4 @@
 
 
 ## Домашнее задание
-[Дедлайн 11.03.22 в 18:00](https://ulearn.me/course/ml/Pervoe_obuchenie_81c95dbe-44a2-4dfa-93bb-4a23a0a30794)
+[Дедлайн 17.03.22 в 18:00](https://ulearn.me/course/ml/Pervoe_obuchenie_81c95dbe-44a2-4dfa-93bb-4a23a0a30794)
