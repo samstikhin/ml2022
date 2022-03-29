@@ -1,9 +1,9 @@
 # 5. Деревья и ансамбли деревьев
 
 ## Colab
-* [DT](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/05-DTandRF/DT.ipynb)
-* [RF](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/05-DTandRF/RF.ipynb)
-* [Home5](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/05-DTandRF/HomeDTandRF.ipynb)
+* [DT](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/05-DTandRF/DT.ipynb)
+* [RF](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/05-DTandRF/RF.ipynb)
+* [Home5](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/05-DTandRF/HomeDTandRF.ipynb)
 
 ## Запись
 [Youtube](https://youtu.be/pECw0mBryB4)
@@ -19,4 +19,4 @@
 
 
 ## Домашнее задание
-[Дедлайн 31.03.22 в 23:59 утра](https://ulearn.me/course/ml/Entropiya_i_kriteriy_Dzhini_9fc03076-63cf-4de7-993c-65af47aa2d67)
+[Дедлайн 31.03.22 в 18:00](https://ulearn.me/course/ml/Entropiya_i_kriteriy_Dzhini_9fc03076-63cf-4de7-993c-65af47aa2d67)
