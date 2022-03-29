@@ -1,4 +1,4 @@
-# 5. Деревья и ансамбли деревьев
+# 4. Деревья и ансамбли деревьев
 
 ## Colab
 * [DT](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/05-DTandRF/DT.ipynb)

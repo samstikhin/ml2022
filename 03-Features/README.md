@@ -1,4 +1,4 @@
-# 4. Метрики и обработка признаков
+# 3. Метрики и обработка признаков
 
 ## Colab
 * [Metrics](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/04-Features/Metrics.ipynb)

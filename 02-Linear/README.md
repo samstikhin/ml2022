@@ -1,4 +1,4 @@
-# Линейные алгоритмы
+# 2. Линейные алгоритмы
 
 ## Colab
 * [Linear](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/02-Linear/Linear.ipynb)

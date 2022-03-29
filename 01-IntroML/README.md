@@ -1,4 +1,4 @@
-# Введение в Машинное Обучение
+# 1. Введение в Машинное Обучение
 
 ## Colab
 * [IntroML](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/01-IntroML/IntroML.ipynb)
