@@ -1,9 +1,9 @@
 # 3. Метрики и обработка признаков
 
 ## Colab
-* [Metrics](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/04-Features/Metrics.ipynb)
-* [Features](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/04-Features/Features.ipynb)
-* [Home4](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/04-Features/HomeFeatures.ipynb)
+* [Metrics](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/03-Features/Metrics.ipynb)
+* [Features](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/03-Features/Features.ipynb)
+* [Home3](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/03-Features/HomeFeatures.ipynb)
 
 ## Запись
 [Youtube](https://youtu.be/ZQzJtWEdcvc)
