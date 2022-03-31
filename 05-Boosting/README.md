@@ -11,11 +11,11 @@
 [Youtube]()
 
 ## План
-* GradBoost (40 мин)
-* GradBoost свойства (20 мин)
+* GradBoost (1 час)
 ------
 * Xgboost (20 мин)
 * Catboost (20 мин)
+* LightGBM (20 мин)
 * Pipeline (20 мин)
 
 
