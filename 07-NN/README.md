@@ -1,9 +1,9 @@
 # 7. Нейронные сети
 
 ## Colab
-* [Pytorch](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/07-NN/Pytorch.ipynb)
-* [Perceptron](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/07-NN/Perceptron.ipynb)
-* [Backprop](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/07-NN/Backprop.ipynb)
+* [Pytorch](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/07-NN/1-Pytorch.ipynb)
+* [Perceptron](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/07-NN/2-Perceptron.ipynb)
+* [Backprop](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/07-NN/3-Backprop.ipynb)
 * [Home7](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/07-NN/HomeNN.ipynb)
 
 ## Запись
@@ -12,9 +12,9 @@
 ## План
 * Pytorch (15 мин)
 * AutoGrad (45 мин)
--- Перерыв
 * Персептрон (30 мин)
 * Процесс обучения персептрона (30 мин)
+-- Перерыв
 * BackPropagation (30 мин)
 
 
