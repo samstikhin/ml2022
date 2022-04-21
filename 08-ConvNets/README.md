@@ -1,14 +1,16 @@
 # 8. Сверточные сети
 
+Предварительно необходимо установить `torchvision`
+
 ## Colab
-* [Classification](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/Classification.ipynb)
-* [BatchData](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/BatchData.ipynb)
-* [Convolutions](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/Conv.ipynb)
-* [ImageNet](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/ImageNet.ipynb)
+* [Classification](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/1-Classification.ipynb)
+* [BatchData](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/2-BatchData.ipynb)
+* [Convolutions](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/3-Conv.ipynb)
+* [ImageNet](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/4-ImageNet.ipynb)
 * [Home8](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/HomeConvNets.ipynb)
 
 ## Запись 
-[youtube](https://youtu.be/KC78aZTrs5s)
+[youtube]
 
 ## План
 * Напоминание про алгоритм бэкпроп (15 мин)
