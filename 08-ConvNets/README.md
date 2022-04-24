@@ -7,7 +7,7 @@
 * [BatchData](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/2-BatchData.ipynb)
 * [Convolutions](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/3-Conv.ipynb)
 * [ImageNet](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/4-ImageNet.ipynb)
-* [Home8](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/HomeConvNets.ipynb)
+* [Home8](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/Home8.ipynb)
 
 ## Запись 
 [youtube]
