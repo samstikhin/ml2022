@@ -10,7 +10,7 @@
 * [Home8](https://colab.research.google.com/github/samstikhin/ml2022/blob/master/08-ConvNets/Home8.ipynb)
 
 ## Запись 
-[youtube]
+[youtube](https://www.youtube.com/watch?v=3DV6bWpOFv4)
 
 ## План
 * Напоминание про алгоритм бэкпроп (15 мин)

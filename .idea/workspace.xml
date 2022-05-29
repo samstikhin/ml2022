@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb93f4b4-69eb-4af7-84b2-bac252400ff7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/11-nlpnn/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/13-cluster/cluster.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/13-cluster/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ml2022.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ml2022.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Boosting/1-GradBoost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05-Boosting/1-GradBoost.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Boosting/2-Xgboost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05-Boosting/2-Xgboost.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05-Boosting/HomeBoosting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/05-Boosting/HomeBoosting.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06-RealML/scoring.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/06-RealML/scoring.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-ConvNets/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/08-ConvNets/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-NLP/1-Embeddings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/09-NLP/1-Embeddings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-NLP/2-Word_embeddings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/09-NLP/2-Word_embeddings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09-NLP/Home9.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/09-NLP/Home9.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-Autoencoders/1_Autoencoder.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11-Autoencoders/1_Autoencoder.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-Autoencoders/3_GAN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11-Autoencoders/3_GAN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11-Autoencoders/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/11-Autoencoders/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/11-nlpnn/nlpnn.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/11-nlpnn/uuids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/11-nlpnn/uuids.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/12-cluster/cluster.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/12-cluster/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/13-cluster/info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/12-cluster/uuids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/13-cluster/uuids.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/13-autoencoders/info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/12-autoencoders/info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/13-autoencoders/recommend.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/12-autoencoders/recommend.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/13-autoencoders/uuids.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/12-autoencoders/uuids.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/14-funnn/funnn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/14-funnn/funnn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/generator.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/Slide0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/Slide1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/Slide2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/Slide3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/Slide4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/Slide5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/Slide6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/Slide7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/checker/runner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/checker/template.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/checker/test-runner.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-0/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-0/task.precondition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-0/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-0/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-1/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-1/task.precondition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-1/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-1/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-2/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-2/task.precondition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-2/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-2/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-3/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-3/task.precondition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-3/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-3/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-4/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-4/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-4/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-5/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-5/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-5/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-6/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-6/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-6/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-7/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-7/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/tasks/task-7/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-07/unit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/Slide0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/Slide1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/Slide2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/tasks/task-0/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/tasks/task-0/task.precondition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/tasks/task-0/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/tasks/task-0/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/tasks/task-1/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/tasks/task-1/task.precondition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/tasks/task-1/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/tasks/task-1/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-11/unit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-12/Slide0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-12/unit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-13/Slide0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-13/Slide1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-13/tasks/task-0/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-13/tasks/task-0/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-13/tasks/task-0/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-13/tasks/task-1/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-13/tasks/task-1/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-13/tasks/task-1/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-13/unit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/Slide0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/Slide1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/Slide2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/Slide3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/Slide4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/Slide5.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/Slide6.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/Slide7.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-0/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-0/task.precondition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-0/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-0/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-1/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-1/task.precondition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-1/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-1/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-2/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-2/task.precondition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-2/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-2/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-3/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-3/task.precondition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-3/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-3/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-4/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-4/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-4/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-5/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-5/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-5/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-6/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-6/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-6/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-7/task.initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-7/task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/tasks/task-7/task.test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mlcourse_ulearn/mlcourse/Unit-14/unit.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../mlcourse_ulearn" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29128G7w2kSmRsuffpRgF37Gpw0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../mlcourse_ulearn/autoconvertion/11-nlpnn/data" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
